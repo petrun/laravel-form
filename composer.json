@@ -9,7 +9,7 @@
       "homepage": "http://www.max-kovpak.com"
     }
   ],
-  "version": "1.0.0-dev",
+  "version": "1.0.1-dev",
   "license": "MIT",
   "require": {
     "php": ">=7.0.0",
@@ -17,7 +17,7 @@
     "symfony/form": "4.*"
   },
   "autoload": {
-    "psr-4": {"petrun\\LaravelForm\\": "src"},
+    "psr-4": {"Brainfab\\LaravelForm\\": "src"},
     "files": [
       "src/helpers.php"
     ]
